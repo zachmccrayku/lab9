@@ -1,0 +1,14 @@
+h1 {
+    font-size: small;
+    font-style: italic;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.border {
+    border: 1px solid black;
+}
